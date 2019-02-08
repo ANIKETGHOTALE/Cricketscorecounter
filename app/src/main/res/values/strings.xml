@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CricketScore</string>
+    <string-array name="matches">
+        <item>MATCHES</item>
+        <item>T-20</item>
+        <item>ODI</item>
+        <item>Test</item>
+
+    </string-array>
+</resources>
